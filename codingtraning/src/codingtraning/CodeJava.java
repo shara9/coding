@@ -9,7 +9,9 @@ public class CodeJava {
 
 		System.out.println("sum" + (a+b));
 		System.out.println("sum" + (a-b));
-		
+		System.out.println("sum" + (a/b));
+		System.out.println("sum" + (a*b));
+
 	}
 
 }
