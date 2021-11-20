@@ -8,6 +8,7 @@ public class CodeJava {
 		int b=2;
 
 		System.out.println("sum" + (a+b));
+		System.out.println("sum" + (a/b));
 	}
 
 }
