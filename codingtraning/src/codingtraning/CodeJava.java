@@ -7,7 +7,7 @@ public class CodeJava {
 		int a=1;
 		int b=2;
 
-		System.out.println("hi");
+		System.out.println("sum" + (a+b));
 	}
 
 }
